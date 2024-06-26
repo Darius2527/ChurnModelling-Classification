@@ -1,7 +1,7 @@
 # ChurnModelling-Classification
 
 This model involves identifying at-risk customers who are likely to cancel their subscriptions or close/abandon their accounts.
-
+Varius Classification models have been used and their hyperparameters tuned using GridSearchCV to obtain the most accurate model possible
 
 
 
