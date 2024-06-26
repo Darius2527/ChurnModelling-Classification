@@ -13,7 +13,7 @@ Hyperparameter Tuning
 
 
 
-**Algorithms used**
+***Algorithms used:***
 
 1.Logistic Regression
 
@@ -29,7 +29,7 @@ Hyperparameter Tuning
 
 
 
-**Model Evaluation Methods used**
+***Model Evaluation Methods used:***
 
 1.Accuracy Score
 
@@ -41,7 +41,7 @@ Hyperparameter Tuning
 
 
 
-**Packages and Toold required**
+***Packages and Toold required:***
 
 1.Pandas
 
