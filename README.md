@@ -7,9 +7,9 @@ This model involves identifying at-risk customers who are likely to cancel their
 
 **Techniques used**
 
-Machine learning modeling
+  Machine learning modeling
 
-Hyperparameter Tuning
+  Hyperparameter Tuning
 
 
 
