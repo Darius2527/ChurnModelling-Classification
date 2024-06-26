@@ -4,11 +4,13 @@ This model involves identifying at-risk customers who are likely to cancel their
 
 
 
+
 **Techniques used**
 
 Machine learning modeling
 
 Hyperparameter Tuning
+
 
 
 **Algorithms used**
@@ -26,6 +28,7 @@ Hyperparameter Tuning
 6.AdaBoost
 
 
+
 **Model Evaluation Methods used**
 
 1.Accuracy Score
@@ -35,6 +38,7 @@ Hyperparameter Tuning
 3.Confusion Matrix
 
 4.Classification Report
+
 
 
 **Packages and Toold required**
